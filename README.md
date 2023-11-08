@@ -1,6 +1,6 @@
 # Servidores-DNS
 
-## Pautas
+## Consideraciones generales
 
  * 2 MV Debian (11 o superior) en modo puente.
  * Visibilidad entre ambas MV (Ip acordes con la red).
