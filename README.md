@@ -16,4 +16,4 @@
 
  ## Configuración paso a paso
 
- * PDF
+ * [PDF](Instalación_Servidor_DNS.pdf)
