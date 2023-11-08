@@ -10,7 +10,7 @@
 
  ## Archivos a modificar
 
- * DNS Maestro
+ * [DNS Maestro](Servidores-DNS/DNS)
  * DNS Esclavo
 
  ## Configuración paso a paso
