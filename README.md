@@ -11,7 +11,7 @@
  ## Archivos a modificar
 
  * [DNS Maestro](https://github.com/juanASIR/Servidores-DNS/tree/main/DNS%20Maestro)
- * DNS Esclavo
+ * [DNS Esclavo](https://github.com/juanASIR/Servidores-DNS/tree/main/DNS%20Secundario)
 
  ## Configuración paso a paso
 
