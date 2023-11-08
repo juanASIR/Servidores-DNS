@@ -2,9 +2,9 @@
 
 ```
 $TTL 2d
-$ORIGIN asir.com.
+$ORIGIN jperalb.com.
 
-@         IN    SOA   ns1.asir.com. hostmaster.asir.com. (
+@         IN    SOA   ns1.jperalb.com. hostmaster.jperalb.com. (
                       2016040800  ; se = serial number
                       12h         ; ref = refresh
                       15m         ; ret = refresh retry
